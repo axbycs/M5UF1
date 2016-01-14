@@ -1,6 +1,6 @@
 ## ÍNDEX
 
-1.1. [Concepte de programa informàtic]()
+1.1. [Concepte de programa informàtic](https://github.com/axbycs/M5UF1/blob/master/Conceptedeprogramainform%C3%A0tic.md)
 
 1.2. [Codi font, codi objecte i codi executable; màquines virtuals]()
 
